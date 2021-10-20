@@ -14,18 +14,36 @@
       "!type": "External",
       "file": [
         "forms",
-        "customerSelect",
+        "customerUpdate",
         "Elements",
-        "lblMessage1.json"
+        "inptNewName.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "customerSelect",
+        "customerUpdate",
         "Elements",
-        "txtaResults.json"
+        "lblUpdateMessage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerUpdate",
+        "Elements",
+        "btnUpdate.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerUpdate",
+        "Elements",
+        "dropdownUpdate.json"
       ]
     }
   ],
@@ -35,7 +53,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "customerSelect",
+  "id": "customerUpdate",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
