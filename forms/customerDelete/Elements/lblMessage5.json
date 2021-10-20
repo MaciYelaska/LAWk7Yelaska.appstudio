@@ -17,9 +17,9 @@
   "fontWeight": "",
   "height": "auto",
   "hidden": "",
-  "id": "lblMessage",
+  "id": "lblMessage5",
   "labelStyle": "text",
-  "left": 50,
+  "left": 17,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 298,
-  "value": "label",
+  "top": 231,
+  "value": "Label",
   "width": "auto"
 }
