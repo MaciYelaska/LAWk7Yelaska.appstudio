@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "lblInsertMessage",
   "labelStyle": "text",
-  "left": 23,
+  "left": 24,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 570,
+  "top": 717,
   "value": "Label",
   "width": "auto"
 }
